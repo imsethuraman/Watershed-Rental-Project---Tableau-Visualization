@@ -5,6 +5,9 @@
 
 This project presents an advanced rental investment analysis dashboard that evaluates property profitability across multiple U.S. locations. It enables dynamic scenario testing, helping investors make data-driven real estate decisions.
 
+# 📷 Dashboard Preview
+<img width="1249" height="999" alt="Dashboard 1" src="https://github.com/user-attachments/assets/b3976b66-e99a-40a2-a584-04c33c88d85a" />
+
 🚀 Project Overview
 
 The Watershed Rental Project analyzes rental properties by comparing:
@@ -55,10 +58,6 @@ State & City
 Property Type
 Bedrooms
 Profit values
-
-# 📷 Dashboard Preview
-<img width="1249" height="999" alt="Dashboard 1" src="https://github.com/user-attachments/assets/b3976b66-e99a-40a2-a584-04c33c88d85a" />
-
 
 📈 Key Insights
 🔥 Strong profitability observed in cities like Austin, Miami, and Palo Alto
