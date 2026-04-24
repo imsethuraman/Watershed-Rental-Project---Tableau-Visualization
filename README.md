@@ -1,4 +1,6 @@
-🏡 Watershed Rental Investment Analysis
+🏡 Watershed Rental Analysis
+
+
 📊 Data-Driven Property Profitability & Cash Flow Modeling
 
 This project presents an advanced rental investment analysis dashboard that evaluates property profitability across multiple U.S. locations. It enables dynamic scenario testing, helping investors make data-driven real estate decisions.
